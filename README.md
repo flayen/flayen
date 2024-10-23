@@ -1,5 +1,5 @@
-Hey hey, I'm Flaye!
+# Flaye here!👋
 
-I build projects I need, even when similar ones exist, because I like creating things my way
+I build projects I need even when similar ones exist. sometimes the stuff i build work, sometimes they dont.
 
-reinventing the wheel might seem crazy, but I always learn something new from it
+but if they do, its gonna be one huge mess
